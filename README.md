@@ -1,1 +1,1 @@
-# WordGuessGame
+# TriviaGame

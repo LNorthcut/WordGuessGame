@@ -1,8 +1,12 @@
-
-.jumbotron {
+html, body {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5JZtUR833xFhEMFcNIQyF7EGducsAU7yBoV_hstMzNYifFc4jtQ);
+  background-size: contain;
+ }
+#jumbotron {
     box-sizing: border-box;
     height: 600px;
-    background-color: aliceblue;
+    
+    
   }
   
   .main-button-container {
